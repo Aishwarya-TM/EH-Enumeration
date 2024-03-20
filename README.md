@@ -70,7 +70,7 @@ cache: This operator allows you to view the cached version of a page. For exampl
 # DNS Enumeration
 
 
-##DNS Recon
+## DNS Recon
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
@@ -99,7 +99,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 
 ![Screenshot_2024-03-19_23-32-49](https://github.com/Aishwarya-TM/EH-Enumeration/assets/127846109/a17cae6d-fbff-4da2-8b73-12262deaea09)
 
-##smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
 
